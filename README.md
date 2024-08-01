@@ -1,1 +1,1 @@
-This repository contains Jupyter Notebook file that is able to visualize high-crime areas in San Francisco based on a public dataset. You can view the used data here: https://cocl.us/sanfran_crime_dataset'.
+This repository contains a Jupyter Notebook file that is able to visualize high-crime areas in San Francisco based on a public dataset. You can view the used data here: https://cocl.us/sanfran_crime_dataset'.
